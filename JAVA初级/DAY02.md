@@ -73,6 +73,7 @@ public class TypeCast {
 |a|97|
 |z|122|
 
+
 ### int和char类型运算原理
 - char类型和int类型计算过程中,char类型先查询编码表得到常数，再求和。char内存2个字节，int类型4个字节，char类型提升为int型。
 ## 运算符
@@ -85,6 +86,8 @@ public class TypeCast {
 |/|除|
 |%|取模，两数相除取余|
 |++、--|自增自减|
+
+
 - 整数使用以上运算符不会得到小数
 - ·`++`自增1，`--``自减
 - ++i，i++在独立运算中没有没有区别；在混合运算中，`++i`先自加，再运算。`i++`,先运算，再自加。
@@ -122,11 +125,14 @@ public class OperationalCharacter {
 |*=|乘等于|
 |/=|除等于|
 |%=|取模等|
+
+
 >int s =5;
         s+=5;//s先自加5再赋值变量
         System.out.println(s);//10
 
 ### 比较运算符
+
 
 |==|两边数值相等，true|
 |:---|:---|
@@ -135,6 +141,8 @@ public class OperationalCharacter {
 |<=|左小等右，true|
 |>=|左大等右，true|
 |!=|两边数值不相等,true|
+
+
 `比较运算符是两个数据间进行比较，运算结果都是布尔值true或false`
 
 ```java
@@ -155,6 +163,8 @@ public class OperationalCharacter {
 |:--|:--|
 |`||`短路或|两边都是false,false;一边是ture，ture;`短路特点：符号左边是ture，右边不再运算`|
 |!取反|！true,→false;!false→true|
+
+
 - 逻辑运算符：用来连接两个布尔类型的运算符，运算结果是布尔值true或false.
 
 
