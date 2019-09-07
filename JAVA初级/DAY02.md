@@ -161,7 +161,7 @@ public class OperationalCharacter {
 
 |&&短路与|两边是true,true;一边false,结果为false;`短路特点：符号左边是false，右边不再运算`|
 |:--|:--|
-|`||`短路或|两边都是false,false;一边是ture，ture;`短路特点：符号左边是ture，右边不再运算`|
+|`||` 短路或| 两边都是false,false;一边是ture，ture ; `短路特点：符号左边是ture，右边不再运算` |
 |!取反|！true,→false;!false→true|
 
 
