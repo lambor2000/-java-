@@ -26,9 +26,9 @@ IDEA/方法
 类与对象、封装、构造方法
 ## day07
 Scanner、Random、ArrayList类
-##day15
+## day15
 maven
-##day29
+## day29
 JavaScript基础
 
 
