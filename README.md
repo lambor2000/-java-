@@ -11,9 +11,25 @@
 本次项目得目标就是每天打一点基础，最后到自己能够独立完成几个项目写到简历上。
 
 
-[]()
-##day01
+
+## day01
 java基础准备知识/变量常量
+## day02
+数据类型转换/运算符/方法入门
+## day03
+流程控制语句
+## day04
+IDEA/方法
+## day05
+数组
+## day06
+类与对象、封装、构造方法
+## day07
+Scanner、Random、ArrayList类
+##day15
+maven
+##day29
+JavaScript基础
 
 
 
